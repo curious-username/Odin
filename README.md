@@ -1,2 +1,2 @@
-# Odin
-All things odin project
+# Odin - CSS Exercise Branch
+
